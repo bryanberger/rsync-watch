@@ -1,0 +1,1 @@
+`NodeJS` app that watches a folder using the `watch` package. Upon a change/addition/deletion it rsyncsto sync to a destination locally or over ssh. Options for rsync can be passed to the `rsyncwrapper` class.
